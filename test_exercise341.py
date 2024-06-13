@@ -1,5 +1,5 @@
 import pytest
-from Exercise341 import process_checkout_system
+from exercise341 import process_checkout_system
 
 def test_exercise341():
     # Datos de prueba
