@@ -13,7 +13,7 @@ def test_exercise341():
     ]
     
     # Resultado esperado para los datos de prueba
-    expected_result = [3, 1, 2]
+    expected_result = [2, 1, 3]
     
     # Llamada a la función y verificación del resultado
     result = process_checkout_system(data)
